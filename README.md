@@ -7,3 +7,6 @@ For Frontend Side:
 For Backend Side:
 1) Open in IntelliJ
 2) Run main file of SpringBoot
+
+
+Demo: https://master.d26rn136ew065g.amplifyapp.com/
